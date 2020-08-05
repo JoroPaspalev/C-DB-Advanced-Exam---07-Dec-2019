@@ -1,0 +1,24 @@
+C:\Users\JP PC\Desktop\01. Model Defition_Skeleton\TeisterMask\bin\Debug\netcoreapp2.1\TeisterMask.deps.json
+C:\Users\JP PC\Desktop\01. Model Defition_Skeleton\TeisterMask\bin\Debug\netcoreapp2.1\TeisterMask.runtimeconfig.json
+C:\Users\JP PC\Desktop\01. Model Defition_Skeleton\TeisterMask\bin\Debug\netcoreapp2.1\TeisterMask.runtimeconfig.dev.json
+C:\Users\JP PC\Desktop\01. Model Defition_Skeleton\TeisterMask\bin\Debug\netcoreapp2.1\TeisterMask.dll
+C:\Users\JP PC\Desktop\01. Model Defition_Skeleton\TeisterMask\bin\Debug\netcoreapp2.1\TeisterMask.pdb
+C:\Users\JP PC\Desktop\01. Model Defition_Skeleton\TeisterMask\obj\Debug\netcoreapp2.1\TeisterMask.AssemblyInfoInputs.cache
+C:\Users\JP PC\Desktop\01. Model Defition_Skeleton\TeisterMask\obj\Debug\netcoreapp2.1\TeisterMask.AssemblyInfo.cs
+C:\Users\JP PC\Desktop\01. Model Defition_Skeleton\TeisterMask\obj\Debug\netcoreapp2.1\TeisterMask.csproj.CoreCompileInputs.cache
+C:\Users\JP PC\Desktop\01. Model Defition_Skeleton\TeisterMask\obj\Debug\netcoreapp2.1\TeisterMask.dll
+C:\Users\JP PC\Desktop\01. Model Defition_Skeleton\TeisterMask\obj\Debug\netcoreapp2.1\TeisterMask.pdb
+C:\Users\JP PC\Desktop\01. Model Defition_Skeleton\TeisterMask\obj\Debug\netcoreapp2.1\TeisterMask.genruntimeconfig.cache
+C:\Users\JP PC\Desktop\01. Model Defition_Skeleton\TeisterMask\obj\Debug\netcoreapp2.1\TeisterMask.csprojAssemblyReference.cache
+C:\Users\JP PC\source\repos\TeisterMask - Exam - 07 Dec 2019\TeisterMask\bin\Debug\netcoreapp2.1\TeisterMask.deps.json
+C:\Users\JP PC\source\repos\TeisterMask - Exam - 07 Dec 2019\TeisterMask\bin\Debug\netcoreapp2.1\TeisterMask.runtimeconfig.json
+C:\Users\JP PC\source\repos\TeisterMask - Exam - 07 Dec 2019\TeisterMask\bin\Debug\netcoreapp2.1\TeisterMask.runtimeconfig.dev.json
+C:\Users\JP PC\source\repos\TeisterMask - Exam - 07 Dec 2019\TeisterMask\bin\Debug\netcoreapp2.1\TeisterMask.dll
+C:\Users\JP PC\source\repos\TeisterMask - Exam - 07 Dec 2019\TeisterMask\bin\Debug\netcoreapp2.1\TeisterMask.pdb
+C:\Users\JP PC\source\repos\TeisterMask - Exam - 07 Dec 2019\TeisterMask\obj\Debug\netcoreapp2.1\TeisterMask.csprojAssemblyReference.cache
+C:\Users\JP PC\source\repos\TeisterMask - Exam - 07 Dec 2019\TeisterMask\obj\Debug\netcoreapp2.1\TeisterMask.AssemblyInfoInputs.cache
+C:\Users\JP PC\source\repos\TeisterMask - Exam - 07 Dec 2019\TeisterMask\obj\Debug\netcoreapp2.1\TeisterMask.AssemblyInfo.cs
+C:\Users\JP PC\source\repos\TeisterMask - Exam - 07 Dec 2019\TeisterMask\obj\Debug\netcoreapp2.1\TeisterMask.csproj.CoreCompileInputs.cache
+C:\Users\JP PC\source\repos\TeisterMask - Exam - 07 Dec 2019\TeisterMask\obj\Debug\netcoreapp2.1\TeisterMask.dll
+C:\Users\JP PC\source\repos\TeisterMask - Exam - 07 Dec 2019\TeisterMask\obj\Debug\netcoreapp2.1\TeisterMask.pdb
+C:\Users\JP PC\source\repos\TeisterMask - Exam - 07 Dec 2019\TeisterMask\obj\Debug\netcoreapp2.1\TeisterMask.genruntimeconfig.cache
